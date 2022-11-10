@@ -9,12 +9,13 @@ div {
     margin-right: auto;
 }
 
-#bttns-div{
+#bttns-div{   
     display: flex;
     flex-direction: row;
 }
 
 button {
     width: 90px;
-    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
