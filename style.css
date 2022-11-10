@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bttns-div{
+    display: flex;
+    flex-direction: row;
+}
+
+button {
+    width: 90px;
+    margin: 5px;
+}
